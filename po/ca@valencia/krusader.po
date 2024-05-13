@@ -150,7 +150,7 @@ msgstr "Propietats bàsiques"
 #: app/ActionMan/actionproperty.ui:45
 #, kde-format
 msgid "..."
-msgstr "..."
+msgstr "…"
 
 #. i18n: ectx: property (whatsThis), widget (QLabel, LabelDescription)
 #. i18n: ectx: property (whatsThis), widget (KTextEdit, textDescription)
@@ -384,7 +384,7 @@ msgstr "Cap"
 #, kde-format
 msgid "If checked, the action is shown in the Useractions menus."
 msgstr ""
-"Si se selecciona, l'acció es mostrarà en els menús de les accions d'usuari."
+"Si està marcada, l'acció es mostrarà en els menús de les accions d'usuari."
 
 #. i18n: ectx: property (text), widget (QCheckBox, chkEnabled)
 #: app/ActionMan/actionproperty.ui:401
@@ -475,7 +475,7 @@ msgstr "Protocol"
 #, kde-format
 msgctxt "New protocol"
 msgid "&New..."
-msgstr "&Nou..."
+msgstr "&Nou…"
 
 #. i18n: ectx: property (text), widget (QToolButton, ButtonEditProtocol)
 #. i18n: ectx: property (text), widget (QToolButton, ButtonEditPath)
@@ -485,7 +485,7 @@ msgstr "&Nou..."
 #: app/ActionMan/actionproperty.ui:765 app/ActionMan/actionproperty.ui:870
 #, kde-format
 msgid "Chan&ge..."
-msgstr "Can&via..."
+msgstr "Can&via…"
 
 #. i18n: ectx: property (text), widget (QToolButton, ButtonRemoveProtocol)
 #. i18n: ectx: property (text), widget (QToolButton, ButtonRemovePath)
@@ -517,7 +517,7 @@ msgstr "Camí"
 #, kde-format
 msgctxt "New path"
 msgid "&New..."
-msgstr "&Nou..."
+msgstr "&Nou…"
 
 #. i18n: ectx: attribute (title), widget (QWidget, tabMime)
 #: app/ActionMan/actionproperty.ui:709
@@ -530,7 +530,7 @@ msgstr "Tipus MIME"
 #, kde-format
 msgctxt "New MIME"
 msgid "&New..."
-msgstr "&Nou..."
+msgstr "&Nou…"
 
 #. i18n: ectx: attribute (title), widget (QWidget, TabFile)
 #: app/ActionMan/actionproperty.ui:814 app/Filter/generalfilter.cpp:89
@@ -553,7 +553,7 @@ msgstr ""
 #, kde-format
 msgctxt "New file"
 msgid "&New..."
-msgstr "&Nou..."
+msgstr "&Nou…"
 
 #. i18n: ectx: property (whatsThis), widget (QCheckBox, chkConfirmExecution)
 #: app/ActionMan/actionproperty.ui:925
@@ -608,7 +608,7 @@ msgstr "Quadro independent"
 #: app/ActionMan/addplaceholderpopup.cpp:57
 #, kde-format
 msgid "Choose executable..."
-msgstr "Trieu l'executable..."
+msgstr "Trieu l'executable…"
 
 #: app/ActionMan/addplaceholderpopup.cpp:143
 #, kde-format
@@ -898,7 +898,7 @@ msgstr "BookMan II"
 #: app/BookMan/krbookmarkhandler.cpp:74
 #, kde-format
 msgid "Type to search..."
-msgstr "Teclegeu per a buscar..."
+msgstr "Teclegeu per a buscar…"
 
 #: app/BookMan/krbookmarkhandler.cpp:216 app/BookMan/krbookmarkhandler.cpp:318
 #: app/Konfigurator/kgcolors.cpp:566 app/Konfigurator/kgcolors.cpp:586
@@ -992,7 +992,7 @@ msgstr "S'ha produït un error quan es llegia el stdout o stderr"
 #: app/Dialogs/checksumdlg.cpp:183
 #, kde-format
 msgid "Please wait..."
-msgstr "Espereu un moment..."
+msgstr "Espereu un moment…"
 
 #: app/Dialogs/checksumdlg.cpp:201
 #, kde-format
@@ -1070,7 +1070,7 @@ msgstr "Les sumes de verificació s'han creat correctament"
 #: app/Dialogs/checksumdlg.cpp:380
 #, kde-format
 msgid "Saving checksum files..."
-msgstr "S'estan guardant els fitxers de suma de verificació..."
+msgstr "S'estan guardant els fitxers de suma de verificació…"
 
 #: app/Dialogs/checksumdlg.cpp:384
 #, kde-format
@@ -1250,7 +1250,7 @@ msgstr "Connexió de xarxa nova"
 #: app/Dialogs/newftpgui.cpp:65
 #, kde-format
 msgid "About to connect to..."
-msgstr "Sobre connectar-se a..."
+msgstr "Sobre connectar-se a…"
 
 #: app/Dialogs/newftpgui.cpp:70
 #, kde-format
@@ -1454,7 +1454,7 @@ msgstr "Mida total:"
 #: app/DiskUsage/diskusage.cpp:230
 #, kde-format
 msgid "Loading the disk usage information..."
-msgstr "S'està carregant la informació d'ús del disc..."
+msgstr "S'està carregant la informació d'ús del disc…"
 
 #: app/DiskUsage/diskusage.cpp:382
 #, kde-format
@@ -1497,7 +1497,7 @@ msgstr "Avís"
 #: app/DiskUsage/diskusage.cpp:583 plugins/krarc/krarc.cpp:898
 #, kde-format
 msgid "Deleting %1..."
-msgstr "S'està suprimint %1..."
+msgstr "S'està suprimint %1…"
 
 #: app/DiskUsage/diskusage.cpp:697
 #, kde-format
@@ -2915,7 +2915,7 @@ msgstr "Resultat de la busca"
 #: app/Konfigurator/kgarchives.cpp:104
 #, kde-format
 msgid "Searching for packers..."
-msgstr "S'estan buscant les eines d'empaquetatge..."
+msgstr "S'estan buscant les eines d'empaquetatge…"
 
 #: app/Konfigurator/kgarchives.cpp:106
 #, kde-format
@@ -3401,7 +3401,7 @@ msgid ""
 "If checked, each file will open in a separate window, otherwise, the viewer "
 "will work in a single, tabbed mode"
 msgstr ""
-"Si se selecciona, cada fitxer s'obrirà en una finestra diferent, altrament, "
+"Si està marcada, cada fitxer s'obrirà en una finestra diferent, altrament, "
 "el visor treballarà en una única finestra amb diverses pestanyes"
 
 #: app/Konfigurator/kggeneral.cpp:74
@@ -3413,7 +3413,7 @@ msgstr "Oculta la barra de pestanyes quan només n'hi ha una oberta"
 #, kde-format
 msgid "If checked, the Viewer tab bar will hide if only one tab is open"
 msgstr ""
-"Si se selecciona, el visor de la barra pestanyes s'ocultarà si només hi ha "
+"Si està marcada, el visor de la barra pestanyes s'ocultarà si només hi ha "
 "una pestanya oberta"
 
 #: app/Konfigurator/kggeneral.cpp:79
@@ -3611,7 +3611,7 @@ msgid ""
 "When checked, whenever the panel is changed (for example, by pressing Tab), "
 "Krusader changes the current folder in the embedded terminal."
 msgstr ""
-"Si se selecciona, cada vegada que es canvie de quadro (p. ex., prement el "
+"Si està marcada, cada vegada que es canvie de quadro (p. ex., prement el "
 "tabulador), Krusader canviarà la carpeta actual en el terminal incrustat."
 
 #: app/Konfigurator/kggeneral.cpp:274
@@ -3626,14 +3626,14 @@ msgid ""
 "by executing 'cd' or 'popd' command), Krusader changes the current folder of "
 "active panel."
 msgstr ""
-"Si se selecciona, cada vegada que es canvie el directori de treball del "
+"Si està marcada, cada vegada que es canvie el directori de treball del "
 "terminal (per exemple, executant les ordres «cd» o «popd»), Krusader "
 "canviarà la carpeta actual del quadro actiu."
 
 #: app/Konfigurator/kggeneral.cpp:296
 #, kde-format
 msgid "Searching for tools..."
-msgstr "S'estan buscant les eines..."
+msgstr "S'estan buscant les eines…"
 
 #: app/Konfigurator/kggeneral.cpp:298
 #, kde-format
@@ -3841,8 +3841,8 @@ msgid ""
 "If checked, new tab button duplicates a tab, otherwise it opens a tab in "
 "home directory."
 msgstr ""
-"Si se selecciona, el botó de pestanya nova duplicarà una pestanya, "
-"altrament, l'obrirà en el directori d'inici."
+"Si està marcada, el botó de pestanya nova duplicarà una pestanya, altrament, "
+"l'obrirà en el directori d'inici."
 
 #: app/Konfigurator/kgpanel.cpp:133
 #, kde-format
@@ -3926,7 +3926,7 @@ msgstr ""
 #: app/Konfigurator/kgpanel.cpp:181
 #, kde-format
 msgid "Folder navigation with Right Arrow"
-msgstr "Navegació per la carpeta amb la fletxa dreta"
+msgstr "Navegueu per la carpeta amb la fletxa dreta"
 
 #: app/Konfigurator/kgpanel.cpp:181
 #, kde-format
@@ -4532,7 +4532,7 @@ msgstr "Basat en el mode de selecció de KDE"
 #: app/Konfigurator/kgpanel.cpp:638
 #, kde-format
 msgid "If checked, use a mode based on KDE's style."
-msgstr "Si se selecciona, s'utilitzarà un mode basat en l'estil de KDE."
+msgstr "Si està marcada, s'utilitzarà un mode basat en l'estil de KDE."
 
 #: app/Konfigurator/kgpanel.cpp:640
 #, kde-format
@@ -4543,7 +4543,7 @@ msgstr "Se selecciona amb el botó esquerre del ratolí"
 #, kde-format
 msgid "If checked, left clicking an item will select it."
 msgstr ""
-"Si se selecciona, quan cliqueu amb el botó esquerre del ratolí, se "
+"Si està marcada, quan cliqueu amb el botó esquerre del ratolí, se "
 "seleccionarà un element."
 
 #: app/Konfigurator/kgpanel.cpp:643
@@ -4557,7 +4557,7 @@ msgid ""
 "If checked, left clicking an item will select it, but will not unselect "
 "other, already selected items."
 msgstr ""
-"Si se selecciona, quan cliqueu amb el botó esquerre del ratolí, se "
+"Si està marcada, quan cliqueu amb el botó esquerre del ratolí, se "
 "seleccionarà un element sense desseleccionar els altres."
 
 #: app/Konfigurator/kgpanel.cpp:646
@@ -4572,9 +4572,9 @@ msgid ""
 "If checked, Shift/Ctrl left clicking will select items.\n"
 "Note: this is meaningless if 'Left Button Selects' is checked."
 msgstr ""
-"Si se selecciona, podreu seleccionar elements amb el botó esquerre del "
-"ratolí mentre premeu la tecla «Majúscules» o «Control».\n"
-"Nota: açò no tindrà efecte si se selecciona l'opció «Se selecciona amb el "
+"Si està marcada, podreu seleccionar elements amb el botó esquerre del ratolí "
+"mentre premeu la tecla «Majúscules» o «Control».\n"
+"Nota: açò no tindrà efecte si està marcada l'opció «Se selecciona amb el "
 "botó esquerre del ratolí»."
 
 #: app/Konfigurator/kgpanel.cpp:649
@@ -4586,7 +4586,7 @@ msgstr "Se selecciona amb el botó dret del ratolí"
 #, kde-format
 msgid "If checked, right clicking an item will select it."
 msgstr ""
-"Si se selecciona, quan cliqueu amb el botó dret del ratolí, se seleccionarà "
+"Si està marcada, quan cliqueu amb el botó dret del ratolí, se seleccionarà "
 "un element."
 
 #: app/Konfigurator/kgpanel.cpp:652
@@ -4600,7 +4600,7 @@ msgid ""
 "If checked, right clicking an item will select it, but will not unselect "
 "other, already selected items."
 msgstr ""
-"Si se selecciona, quan cliqueu amb el botó dret del ratolí, se seleccionarà "
+"Si està marcada, quan cliqueu amb el botó dret del ratolí, se seleccionarà "
 "un element sense desseleccionar els altres."
 
 #: app/Konfigurator/kgpanel.cpp:655
@@ -4615,9 +4615,9 @@ msgid ""
 "If checked, Shift/Ctrl right clicking will select items.\n"
 "Note: this is meaningless if 'Right Button Selects' is checked."
 msgstr ""
-"Si se selecciona, podreu seleccionar elements amb el botó dret del ratolí "
+"Si està marcada, podreu seleccionar elements amb el botó dret del ratolí "
 "mentre premeu la tecla «Majúscules» o «Control».\n"
-"Nota: açò no tindrà efecte si se selecciona l'opció «Se selecciona amb el "
+"Nota: açò no tindrà efecte si està marcada l'opció «Se selecciona amb el "
 "botó dret del ratolí»."
 
 #: app/Konfigurator/kgpanel.cpp:658
@@ -4632,7 +4632,7 @@ msgid ""
 "down.\n"
 "Otherwise, current item is selected, but remains the current item."
 msgstr ""
-"Si se selecciona, cada vegada que premeu la tecla «Espai» el cursor saltarà "
+"Si està marcada, cada vegada que premeu la tecla «Espai» el cursor saltarà "
 "fins a l'element següent.\n"
 "Altrament romandrà en el mateix element seleccionat."
 
@@ -4648,7 +4648,7 @@ msgid ""
 "(except from selecting the folder)\n"
 "calculate space occupied of the folder (recursively)."
 msgstr ""
-"Si se selecciona, quan es prema la barra d'espai damunt d'una carpeta,\n"
+"Si està marcada, quan es prema la barra d'espai damunt d'una carpeta,\n"
 "(excepte quan se selecciona la carpeta) es calcularà l'espai ocupat per\n"
 "la carpeta (de manera recursiva)."
 
@@ -4664,7 +4664,7 @@ msgid ""
 "the next item.\n"
 "Otherwise, current item is not changed."
 msgstr ""
-"Si se selecciona, cada vegada que premeu la tecla «Inserció», el cursor "
+"Si està marcada, cada vegada que premeu la tecla «Inserció», el cursor "
 "saltarà fins a l'element següent.\n"
 "Altrament romandrà en el mateix element seleccionat."
 
@@ -4680,7 +4680,7 @@ msgid ""
 "context menu.\n"
 "Otherwise, user needs to click and hold the right mouse button for 500ms."
 msgstr ""
-"Si se selecciona, amb el clic dret es mostrarà immediatament el menú "
+"Si està marcada, amb el clic dret es mostrarà immediatament el menú "
 "contextual.\n"
 "D'altra manera, l'usuari necessitarà fer clic i mantindre premut el botó "
 "dret del ratolí durant uns 500 ms."
@@ -4883,10 +4883,9 @@ msgid ""
 msgstr ""
 "<p>En l'inici de Krusader, este recuperarà la mida que tenia quan es va "
 "parar per última vegada. Krusader ocuparà exactament la mateixa ubicació de "
-"la pantalla, i els quadros estaran ordenats com estaven.</p> <p>Si no se "
-"selecciona esta opció, podreu utilitzar l'opció del menú <i>Finestra -> "
-"Guarda la posició</i> per a una posició i una mida determinades a l'inici.</"
-"p>"
+"la pantalla, i els quadros estaran ordenats com estaven.</p> <p>Si no es "
+"marca esta opció, podreu utilitzar l'opció del menú <i>Finestra -> Guarda la "
+"posició</i> per a una posició i una mida determinades a l'inici.</p>"
 
 #: app/Konfigurator/kgstartup.cpp:91
 #, kde-format
@@ -5341,12 +5340,12 @@ msgstr "Per&fils"
 #: app/kractions.cpp:207
 #, kde-format
 msgid "Sp&lit File..."
-msgstr "&Dividix el fitxer..."
+msgstr "&Dividix el fitxer…"
 
 #: app/kractions.cpp:208
 #, kde-format
 msgid "Com&bine Files..."
-msgstr "Reaj&unta els fitxers..."
+msgstr "Reaj&unta els fitxers…"
 
 #: app/kractions.cpp:209
 #, kde-format
@@ -5406,27 +5405,27 @@ msgstr "Inicia el &terminal"
 #: app/kractions.cpp:255
 #, kde-format
 msgid "&Search..."
-msgstr "Bu&sca..."
+msgstr "Bu&sca…"
 
 #: app/kractions.cpp:256
 #, kde-format
 msgid "&Locate..."
-msgstr "&Ubica..."
+msgstr "&Ubica…"
 
 #: app/kractions.cpp:258
 #, kde-format
 msgid "Synchronize Fol&ders..."
-msgstr "Sincronitza les &carpetes..."
+msgstr "Sincronitza les &carpetes…"
 
 #: app/kractions.cpp:260
 #, kde-format
 msgid "D&isk Usage..."
-msgstr "&Ús del disc..."
+msgstr "&Ús del disc…"
 
 #: app/kractions.cpp:261
 #, kde-format
 msgid "Configure &Krusader..."
-msgstr "Configura &Krusader..."
+msgstr "Configura &Krusader…"
 
 #: app/kractions.cpp:262
 #, kde-format
@@ -5436,12 +5435,12 @@ msgstr "Guarda la &posició"
 #: app/kractions.cpp:263
 #, kde-format
 msgid "Compare b&y Content..."
-msgstr "Compara per &contingut..."
+msgstr "Compara per &contingut…"
 
 #: app/kractions.cpp:264
 #, kde-format
 msgid "Multi &Rename..."
-msgstr "Ca&nvia el nom de forma massiva..."
+msgstr "Ca&nvia el nom de forma massiva…"
 
 #: app/kractions.cpp:267 app/krusaderview.cpp:447
 #, kde-format
@@ -5456,7 +5455,7 @@ msgstr "&Accions d'usuari"
 #: app/kractions.cpp:270
 #, kde-format
 msgid "Manage User Actions..."
-msgstr "Gestiona les accions d'usuari..."
+msgstr "Gestiona les accions d'usuari…"
 
 #: app/kractions.cpp:272
 #, kde-format
@@ -5476,7 +5475,7 @@ msgstr "Ix de Krusader."
 #: app/kractions.cpp:280
 #, kde-format
 msgid "Popular URLs..."
-msgstr "URL populars..."
+msgstr "URL populars…"
 
 #: app/kractions.cpp:281
 #, kde-format
@@ -5879,17 +5878,17 @@ msgstr "S'està visualitzant: %1"
 #: app/KViewer/lister.cpp:1194 app/KViewer/lister.cpp:1907
 #, kde-format
 msgid "Save selection..."
-msgstr "Guarda la selecció..."
+msgstr "Guarda la selecció…"
 
 #: app/KViewer/lister.cpp:1198
 #, kde-format
 msgid "Save as..."
-msgstr "Anomena i guarda..."
+msgstr "Anomena i guarda…"
 
 #: app/KViewer/lister.cpp:1202
 #, kde-format
 msgid "Print..."
-msgstr "Imprimix..."
+msgstr "Imprimix…"
 
 #: app/KViewer/lister.cpp:1212
 #, kde-format
@@ -6894,7 +6893,7 @@ msgstr "URL que s'ha d'obrir"
 #: app/MountMan/kmountman.cpp:51
 #, kde-format
 msgid "&MountMan..."
-msgstr "&Gestor del muntatge..."
+msgstr "&Gestor del muntatge…"
 
 #: app/MountMan/kmountman.cpp:54
 #, kde-format
@@ -7207,7 +7206,7 @@ msgid ""
 "active and inactive panel - if possible."
 msgstr ""
 "Este botó alterna el mode de navegació sincronitzada.\n"
-"Si se selecciona, cada canvi de carpeta també es realitzarà\n"
+"Si està marcada, cada canvi de carpeta també es realitzarà\n"
 "als quadros in/actius -si és possible-."
 
 #: app/Panel/listpanel.cpp:573
@@ -7241,12 +7240,12 @@ msgstr "s'estan carregant les vistes prèvies: %p%"
 #: app/Panel/listpanel.cpp:1055
 #, kde-format
 msgid ">> Reading..."
-msgstr ">> S'està llegint..."
+msgstr ">> S'està llegint…"
 
 #: app/Panel/listpanel.cpp:1081
 #, kde-format
 msgid ">> Reading: %1 % complete..."
-msgstr ">> S'està llegint: %1 % completada..."
+msgstr ">> S'està llegint: %1 % completada…"
 
 #: app/Panel/listpanel.cpp:1087
 #, kde-format
@@ -7286,7 +7285,7 @@ msgstr "Edita el fitxer"
 #: app/Panel/listpanelactions.cpp:66
 #, kde-format
 msgid "&New Text File..."
-msgstr "Fitxer de text &nou..."
+msgstr "Fitxer de text &nou…"
 
 #: app/Panel/listpanelactions.cpp:67
 #, kde-format
@@ -7301,17 +7300,17 @@ msgstr "Mou cap a l'altre quadro"
 #: app/Panel/listpanelactions.cpp:69
 #, kde-format
 msgid "Copy delayed..."
-msgstr "Còpia retardada..."
+msgstr "Còpia retardada…"
 
 #: app/Panel/listpanelactions.cpp:70
 #, kde-format
 msgid "Move delayed..."
-msgstr "Moure retardat..."
+msgstr "Moure retardat…"
 
 #: app/Panel/listpanelactions.cpp:71
 #, kde-format
 msgid "New Folder..."
-msgstr "Carpeta nova..."
+msgstr "Carpeta nova…"
 
 #: app/Panel/listpanelactions.cpp:73
 #, kde-format
@@ -7331,7 +7330,7 @@ msgstr "Menú del clic dret"
 #: app/Panel/listpanelactions.cpp:78
 #, kde-format
 msgid "&Properties..."
-msgstr "&Propietats..."
+msgstr "&Propietats…"
 
 #: app/Panel/listpanelactions.cpp:79
 #, kde-format
@@ -7346,27 +7345,27 @@ msgstr "Calcula l'espai &ocupat"
 #: app/Panel/listpanelactions.cpp:81
 #, kde-format
 msgid "Pac&k..."
-msgstr "Em&paqueta..."
+msgstr "Em&paqueta…"
 
 #: app/Panel/listpanelactions.cpp:82
 #, kde-format
 msgid "&Unpack..."
-msgstr "&Desempaqueta..."
+msgstr "&Desempaqueta…"
 
 #: app/Panel/listpanelactions.cpp:83
 #, kde-format
 msgid "Create Checksum..."
-msgstr "Crea una suma de verificació..."
+msgstr "Crea una suma de verificació…"
 
 #: app/Panel/listpanelactions.cpp:84
 #, kde-format
 msgid "Verify Checksum..."
-msgstr "Comprova la suma de verificació..."
+msgstr "Comprova la suma de verificació…"
 
 #: app/Panel/listpanelactions.cpp:85 app/Panel/panelcontextmenu.cpp:264
 #, kde-format
 msgid "New Symlink..."
-msgstr "Enllaç simbòlic nou..."
+msgstr "Enllaç simbòlic nou…"
 
 #: app/Panel/listpanelactions.cpp:86
 #, kde-format
@@ -7401,7 +7400,7 @@ msgstr "Interromp l'actualització de la vista"
 #: app/Panel/listpanelactions.cpp:94
 #, kde-format
 msgid "New Net &Connection..."
-msgstr "&Connexió de xarxa nova..."
+msgstr "&Connexió de xarxa nova…"
 
 #: app/Panel/listpanelactions.cpp:95
 #, kde-format
@@ -7481,17 +7480,17 @@ msgstr "Suports de la dreta"
 #: app/Panel/listpanelactions.cpp:113
 #, kde-format
 msgid "Find in folder..."
-msgstr "Busca en la carpeta..."
+msgstr "Busca en la carpeta…"
 
 #: app/Panel/listpanelactions.cpp:114
 #, kde-format
 msgid "Select in folder..."
-msgstr "Selecció en una carpeta..."
+msgstr "Selecció en una carpeta…"
 
 #: app/Panel/listpanelactions.cpp:115
 #, kde-format
 msgid "Filter in folder..."
-msgstr "Filtre en una carpeta..."
+msgstr "Filtre en una carpeta…"
 
 #: app/Panel/listpanelactions.cpp:118
 #, kde-format
@@ -7574,7 +7573,7 @@ msgstr "Navega per l'arxiu"
 #: app/Panel/panelcontextmenu.cpp:198
 #, kde-format
 msgid "Other..."
-msgstr "Altres..."
+msgstr "Altres…"
 
 #: app/Panel/panelcontextmenu.cpp:200
 #, kde-format
@@ -7589,12 +7588,12 @@ msgstr "Mou cap a dins de la paperera"
 #: app/Panel/panelcontextmenu.cpp:265
 #, kde-format
 msgid "New Hardlink..."
-msgstr "Enllaç fort nou..."
+msgstr "Enllaç fort nou…"
 
 #: app/Panel/panelcontextmenu.cpp:267
 #, kde-format
 msgid "Redirect Link..."
-msgstr "Redirigix l'enllaç..."
+msgstr "Redirigix l'enllaç…"
 
 #: app/Panel/panelcontextmenu.cpp:270
 #, kde-format
@@ -7614,7 +7613,7 @@ msgstr "Recupera"
 #: app/Panel/panelcontextmenu.cpp:305
 #, kde-format
 msgid "Synchronize Selected Files..."
-msgstr "Sincronitza els fitxers seleccionats..."
+msgstr "Sincronitza els fitxers seleccionats…"
 
 #: app/Panel/panelcontextmenu.cpp:332
 #, kde-format
@@ -8142,7 +8141,7 @@ msgstr "&Personalitza"
 #: app/Panel/viewactions.cpp:31
 #, kde-format
 msgid "Select &Group..."
-msgstr "Selecciona un &grup..."
+msgstr "Selecciona un &grup…"
 
 #: app/Panel/viewactions.cpp:32
 #, kde-format
@@ -8152,7 +8151,7 @@ msgstr "&Selecciona-ho tot"
 #: app/Panel/viewactions.cpp:33
 #, kde-format
 msgid "&Unselect Group..."
-msgstr "Desselecciona el gr&up..."
+msgstr "Desselecciona el gr&up…"
 
 #: app/Panel/viewactions.cpp:34
 #, kde-format
@@ -8340,12 +8339,12 @@ msgstr "Nom de la consulta"
 #: app/Splitter/combiner.cpp:51
 #, kde-format
 msgid "Krusader::Combining..."
-msgstr "Krusader::Combinació..."
+msgstr "Krusader::Combinació…"
 
 #: app/Splitter/combiner.cpp:52
 #, kde-format
 msgid "Combining the file %1..."
-msgstr "S'està combinant el fitxer %1..."
+msgstr "S'està combinant el fitxer %1…"
 
 #: app/Splitter/combiner.cpp:62
 #, kde-format
@@ -8402,12 +8401,12 @@ msgstr ""
 #: app/Splitter/splitter.cpp:72
 #, kde-format
 msgid "Krusader::Splitting..."
-msgstr "Krusader::S'està dividint..."
+msgstr "Krusader::S'està dividint…"
 
 #: app/Splitter/splitter.cpp:73
 #, kde-format
 msgid "Splitting the file %1..."
-msgstr "S'està dividint el fitxer %1..."
+msgstr "S'està dividint el fitxer %1…"
 
 #: app/Splitter/splitter.cpp:76
 #, kde-format
@@ -8562,7 +8561,7 @@ msgstr "No s'ha pogut obrir %1."
 #: app/Synchronizer/synchronizedialog.cpp:32
 #, kde-format
 msgid "Krusader::Synchronize"
-msgstr "Krusader::Sincronització"
+msgstr "Krusader::Sincronitzeu"
 
 #: app/Synchronizer/synchronizedialog.cpp:39
 #, kde-format
@@ -9112,7 +9111,7 @@ msgstr "S'ha produït un error d'E/S en comparar el fitxer %1 amb %2."
 #: app/Synchronizer/synchronizertask.cpp:325
 #, kde-format
 msgid "Comparing file %1 (%2)..."
-msgstr "S'està comparant el fitxer %1 (%2)..."
+msgstr "S'està comparant el fitxer %1 (%2)…"
 
 #: app/tabactions.cpp:23
 #, kde-format
@@ -9204,7 +9203,7 @@ msgstr ""
 #: app/UserAction/expander.cpp:262
 #, kde-format
 msgid "Panel's Path..."
-msgstr "Camí del quadro..."
+msgstr "Camí del quadro…"
 
 #: app/UserAction/expander.cpp:265 app/UserAction/expander.cpp:333
 #: app/UserAction/expander.cpp:367 app/UserAction/expander.cpp:401
@@ -9216,7 +9215,7 @@ msgstr "Ignora automàticament els espais"
 #: app/UserAction/expander.cpp:287
 #, kde-format
 msgid "Number of..."
-msgstr "Nombre de..."
+msgstr "Nombre de…"
 
 #: app/UserAction/expander.cpp:290
 #, kde-format
@@ -9237,7 +9236,7 @@ msgstr "Màscara de filtre (*.h, *.cpp, etc.)"
 #: app/UserAction/expander.cpp:329
 #, kde-format
 msgid "Current File (!= Selected File)..."
-msgstr "Fitxer actual (!= a part del seleccionat)..."
+msgstr "Fitxer actual (!= a part del seleccionat)…"
 
 #: app/UserAction/expander.cpp:332 app/UserAction/expander.cpp:365
 #: app/UserAction/expander.cpp:399 app/UserAction/expander.cpp:737
@@ -9248,7 +9247,7 @@ msgstr "Omet el camí actual (opcional)"
 #: app/UserAction/expander.cpp:360
 #, kde-format
 msgid "Item List of..."
-msgstr "Llista d'elements de..."
+msgstr "Llista d'elements de…"
 
 #: app/UserAction/expander.cpp:363 app/UserAction/expander.cpp:397
 #: app/UserAction/expander.cpp:736
@@ -9270,7 +9269,7 @@ msgstr "Màscara (opcional, no es pot posar «Selected»):"
 #: app/UserAction/expander.cpp:394
 #, kde-format
 msgid "Filename of an Item List..."
-msgstr "Nom de fitxer d'un element de la llista..."
+msgstr "Nom de fitxer d'un element de la llista…"
 
 #: app/UserAction/expander.cpp:398
 #, kde-format
@@ -9285,7 +9284,7 @@ msgstr "Completador: el fitxer temporal no s'ha pogut obrir (%1)"
 #: app/UserAction/expander.cpp:440
 #, kde-format
 msgid "Manipulate the Selection..."
-msgstr "Manipula la selecció..."
+msgstr "Manipula la selecció…"
 
 #: app/UserAction/expander.cpp:443
 #, kde-format
@@ -9300,7 +9299,7 @@ msgstr "Manipula de la següent manera:"
 #: app/UserAction/expander.cpp:471
 #, kde-format
 msgid "Jump to a Location..."
-msgstr "Salta fins a la ubicació..."
+msgstr "Salta fins a la ubicació…"
 
 #: app/UserAction/expander.cpp:474
 #, kde-format
@@ -9320,7 +9319,7 @@ msgstr "Completador: com a mínim es necessita 1 paràmetre per a «goto»."
 #: app/UserAction/expander.cpp:518
 #, kde-format
 msgid "Ask Parameter from User..."
-msgstr "Pregunta un paràmetre a l'usuari..."
+msgstr "Pregunta un paràmetre a l'usuari…"
 
 #: app/UserAction/expander.cpp:521
 #, kde-format
@@ -9350,7 +9349,7 @@ msgstr "Acció d'usuari"
 #: app/UserAction/expander.cpp:558
 #, kde-format
 msgid "Copy to Clipboard..."
-msgstr "Copia a dins del porta-retalls..."
+msgstr "Copia a dins del porta-retalls…"
 
 #: app/UserAction/expander.cpp:561 app/UserAction/expander.cpp:591
 #, kde-format
@@ -9375,7 +9374,7 @@ msgstr "Completador: %Each% no pot ser el segon paràmetre de %Clipboard%"
 #: app/UserAction/expander.cpp:588
 #, kde-format
 msgid "Copy a File/Folder..."
-msgstr "Copia un fitxer/carpeta..."
+msgstr "Copia un fitxer/carpeta…"
 
 #: app/UserAction/expander.cpp:592
 #, kde-format
@@ -9401,7 +9400,7 @@ msgstr ""
 #: app/UserAction/expander.cpp:632
 #, kde-format
 msgid "Move/Rename a File/Folder..."
-msgstr "Mou o canvia el nom d'un fitxer/carpeta..."
+msgstr "Mou o canvia el nom d'un fitxer/carpeta…"
 
 #: app/UserAction/expander.cpp:635
 #, kde-format
@@ -9432,7 +9431,7 @@ msgstr ""
 #: app/UserAction/expander.cpp:671
 #, kde-format
 msgid "Load a Synchronizer Profile..."
-msgstr "Carrega un perfil de sincronització..."
+msgstr "Carrega un perfil de sincronització…"
 
 #: app/UserAction/expander.cpp:674 app/UserAction/expander.cpp:696
 #: app/UserAction/expander.cpp:716
@@ -9448,7 +9447,7 @@ msgstr "Completador: no hi ha cap perfil definit per a %_Sync(profile)%"
 #: app/UserAction/expander.cpp:693
 #, kde-format
 msgid "Load a Searchmodule Profile..."
-msgstr "Carrega un perfil de busca de mòduls..."
+msgstr "Carrega un perfil de busca de mòduls…"
 
 #: app/UserAction/expander.cpp:701
 #, kde-format
@@ -9458,24 +9457,24 @@ msgstr "Completador: no hi ha cap perfil definit per a %_NewSearch(profile)%"
 #: app/UserAction/expander.cpp:713
 #, kde-format
 msgid "Load a Panel Profile..."
-msgstr "Carrega un perfil de quadro..."
+msgstr "Carrega un perfil de quadro…"
 
 #: app/UserAction/expander.cpp:721
 #, kde-format
 msgid "Expander: no profile specified for %_Profile(profile)%; abort..."
 msgstr ""
 "Completador: no hi ha cap perfil definit per a %_Profile(profile)%; "
-"s'interromp..."
+"s'interromp…"
 
 #: app/UserAction/expander.cpp:733
 #, kde-format
 msgid "Separate Program Call for Each..."
-msgstr "Fes una crida de programa diferent per a cada..."
+msgstr "Fes una crida de programa diferent per a cada…"
 
 #: app/UserAction/expander.cpp:767
 #, kde-format
 msgid "Set Sorting for This Panel..."
-msgstr "Establix l'ordenació d'este quadro..."
+msgstr "Establix l'ordenació d'este quadro…"
 
 #: app/UserAction/expander.cpp:770
 #, kde-format
@@ -9501,7 +9500,7 @@ msgstr ""
 #: app/UserAction/expander.cpp:836
 #, kde-format
 msgid "Set Relation Between the Panels..."
-msgstr "Establix una relació entre els dos quadros..."
+msgstr "Establix una relació entre els dos quadros…"
 
 #: app/UserAction/expander.cpp:839
 #, kde-format
@@ -9520,7 +9519,7 @@ msgstr ""
 #: app/UserAction/expander.cpp:864
 #, kde-format
 msgid "View File with Krusader's Internal Viewer..."
-msgstr "Visualitza el fitxer amb el visor intern de Krusader..."
+msgstr "Visualitza el fitxer amb el visor intern de Krusader…"
 
 #: app/UserAction/expander.cpp:867
 #, kde-format
@@ -9840,7 +9839,7 @@ msgstr "La creació de carpetes no està admesa amb els arxius %1"
 #: plugins/krarc/krarc.cpp:345
 #, kde-format
 msgid "Creating %1..."
-msgstr "S'està creant %1..."
+msgstr "S'està creant %1…"
 
 #: plugins/krarc/krarc.cpp:407 plugins/krarc/krarc.cpp:424
 #, kde-format
@@ -9850,7 +9849,7 @@ msgstr "L'escriptura en arxius %1 no està admesa"
 #: plugins/krarc/krarc.cpp:497
 #, kde-format
 msgid "Packing %1..."
-msgstr "S'està empaquetant %1..."
+msgstr "S'està empaquetant %1…"
 
 #: plugins/krarc/krarc.cpp:560 plugins/krarc/krarc.cpp:581
 #, kde-format
@@ -9860,7 +9859,7 @@ msgstr "La recuperació de les dades des d'arxius %1 no està admesa"
 #: plugins/krarc/krarc.cpp:663 plugins/krarc/krarc.cpp:1085
 #, kde-format
 msgid "Unpacking %1..."
-msgstr "S'està desempaquetant %1..."
+msgstr "S'està desempaquetant %1…"
 
 #: plugins/krarc/krarc.cpp:676 plugins/krarc/krarc.cpp:681
 #, kde-format
