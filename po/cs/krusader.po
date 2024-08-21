@@ -9,8 +9,8 @@ msgstr ""
 "Project-Id-Version: krusader\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2024-01-16 03:15+0000\n"
-"PO-Revision-Date: 2024-06-18 16:04+0200\n"
-"Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
+"PO-Revision-Date: 2024-08-20 15:08+0200\n"
+"Last-Translator: Vit Pelcak <vit@pelcak.org>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
@@ -4002,7 +4002,7 @@ msgstr "Barva rámu:"
 #, kde-format
 msgctxt "Frame color"
 msgid "Defined by Layout"
-msgstr "Definováno rozložením"
+msgstr "Definováno rozvržením"
 
 #: app/Konfigurator/kgpanel.cpp:290
 #, kde-format
@@ -4025,7 +4025,7 @@ msgstr "Tvar rámu:"
 #, kde-format
 msgctxt "Frame shape"
 msgid "Defined by Layout"
-msgstr "Definováno rozložením"
+msgstr "Definováno rozvržením"
 
 #: app/Konfigurator/kgpanel.cpp:304
 #, kde-format
@@ -4054,7 +4054,7 @@ msgstr "Stín rámu:"
 #, kde-format
 msgctxt "Frame shadow"
 msgid "Defined by Layout"
-msgstr "Definováno rozložením"
+msgstr "Definováno rozvržením"
 
 #: app/Konfigurator/kgpanel.cpp:319
 #, kde-format
